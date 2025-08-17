@@ -1,4 +1,4 @@
 requests
-colors
+paramiko
 bs4
 mysql-connector-python
